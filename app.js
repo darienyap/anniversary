@@ -4,7 +4,7 @@ const DEFAULT_NOTE =
 const DEFAULT_ITEMS = [
   { date: "17-23 March 2025", title: "the trip when we got close",           desc: "where it all started 😛😛",                    emoji: "✨", photos: ["images/pic1.jpeg", "images/pic10.jpeg"] },
   { date: "24 March 2025", title: "first date 😜😜",               desc: "CYCLELEE",   emoji: "🩷",        photos: ["images/date1.jpeg", "images/date2.jpeg"] },
-  { date: "23 July 2025", title: "first monthsaryyy 😙😙", desc: "hehe this so crazy",                     emoji: "💫", photos: ["images/monthsary1.jpeg", "images/monthsary2.jpeg"] },
+  { date: "23 July 2025", title: "first photobooth 😙😙", desc: "hehe this so crazy",                     emoji: "💫", photos: ["images/monthsary1.jpeg", "images/monthsary2.jpeg"] },
   { date: "1 April 2025", title: "our little adventure to JB",     desc: "I WANNA GO BACK",                    emoji: "🎀", photos: ["images/jb1.jpeg", "images/jb4.jpeg"] },
 ];
 
